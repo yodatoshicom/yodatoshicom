@@ -1,7 +1,11 @@
 # Hi, I'm YOdAtO$Hi 👋
 
+
+
 ## ⚡ About Me
-Planning to make at least 20 apps until one makes it.
+Planning to launch at least 20 apps until one makes it
+
+
 
 ## 🕹️ Current Projects
 - 🧠 [**weekDash**](https://weekdash.com) — Simple dashboard to organize thoughts and plan things 🗓️
