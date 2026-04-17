@@ -4,7 +4,7 @@
 
 ## 🕹️ Current Projects
 - 🧠 [**weekDash**](https://weekdash.com) — Simple dashboard to organize thoughts and plan things 🗓️
-- 🔍 [**Dott**](https://github.com/yodatoshicom/dott) — CLI tool to search domains directly from your terminal, without the middlemen
+- 🔍 [**Dott**](https://github.com/yodatoshicom/dott) — a CLI tool to search for domains
 - 🚀 [**devDash**](https://yodatoshicom.github.io/devDash/) — A little dashboard to read Hacker News with style
 
 ---
