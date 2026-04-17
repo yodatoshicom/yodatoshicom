@@ -2,11 +2,6 @@
 
 
 
-## ⚡ About Me
-Planning to launch at least 20 apps until one makes it
-
-
-
 ## 🕹️ Current Projects
 - 🧠 [**weekDash**](https://weekdash.com) — Simple dashboard to organize thoughts and plan things 🗓️
 - 🔍 [**Dott**](https://github.com/yodatoshicom/dott) — CLI tool to search domains directly from your terminal, without the middlemen
